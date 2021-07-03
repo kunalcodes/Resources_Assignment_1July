@@ -179,7 +179,7 @@
         app:layout_constraintBottom_toTopOf="@+id/viewline3"
         app:layout_constraintStart_toStartOf="@+id/viewline2"
         app:layout_constraintTop_toBottomOf="@+id/viewline2"
-        app:srcCompat="@drawable/prateek_sukla" />
+        app:srcCompat="@drawable/jeff_bezos" />
 
     <TextView
         android:id="@+id/tvjeff"
